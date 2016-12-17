@@ -1,0 +1,1571 @@
+fileFormatVersion: 2
+guid: d9ea7edba7ca1da41bb75a5b1b219ec4
+timeCreated: 1474505029
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charaSpriteSheet_0
+    21300002: charaSpriteSheet_1
+    21300004: charaSpriteSheet_2
+    21300006: charaSpriteSheet_3
+    21300008: charaSpriteSheet_4
+    21300010: charaSpriteSheet_5
+    21300012: charaSpriteSheet_6
+    21300014: charaSpriteSheet_7
+    21300016: charaSpriteSheet_8
+    21300018: charaSpriteSheet_9
+    21300020: charaSpriteSheet_10
+    21300022: charaSpriteSheet_11
+    21300024: charaSpriteSheet_12
+    21300026: charaSpriteSheet_13
+    21300028: charaSpriteSheet_14
+    21300030: charaSpriteSheet_15
+    21300032: charaSpriteSheet_16
+    21300034: charaSpriteSheet_17
+    21300036: charaSpriteSheet_18
+    21300038: charaSpriteSheet_19
+    21300040: charaSpriteSheet_20
+    21300042: charaSpriteSheet_21
+    21300044: charaSpriteSheet_22
+    21300046: charaSpriteSheet_23
+    21300048: charaSpriteSheet_24
+    21300050: charaSpriteSheet_25
+    21300052: charaSpriteSheet_26
+    21300054: charaSpriteSheet_27
+    21300056: charaSpriteSheet_28
+    21300058: charaSpriteSheet_29
+    21300060: charaSpriteSheet_30
+    21300062: charaSpriteSheet_31
+    21300064: charaSpriteSheet_32
+    21300066: charaSpriteSheet_33
+    21300068: charaSpriteSheet_34
+    21300070: charaSpriteSheet_35
+    21300072: charaSpriteSheet_36
+    21300074: charaSpriteSheet_37
+    21300076: charaSpriteSheet_38
+    21300078: charaSpriteSheet_39
+    21300080: charaSpriteSheet_40
+    21300082: charaSpriteSheet_41
+    21300084: charaSpriteSheet_42
+    21300086: charaSpriteSheet_43
+    21300088: charaSpriteSheet_44
+    21300090: charaSpriteSheet_45
+    21300092: charaSpriteSheet_46
+    21300094: charaSpriteSheet_47
+    21300096: charaSpriteSheet_48
+    21300098: charaSpriteSheet_49
+    21300100: charaSpriteSheet_50
+    21300102: charaSpriteSheet_51
+    21300104: charaSpriteSheet_52
+    21300106: charaSpriteSheet_53
+    21300108: charaSpriteSheet_54
+    21300110: charaSpriteSheet_55
+    21300112: charaSpriteSheet_56
+    21300114: charaSpriteSheet_57
+    21300116: charaSpriteSheet_58
+    21300118: charaSpriteSheet_59
+    21300120: charaSpriteSheet_60
+    21300122: charaSpriteSheet_61
+    21300124: charaSpriteSheet_62
+    21300126: charaSpriteSheet_63
+    21300128: charaSpriteSheet_64
+    21300130: charaSpriteSheet_65
+    21300132: charaSpriteSheet_66
+    21300134: charaSpriteSheet_67
+    21300136: charaSpriteSheet_68
+    21300138: charaSpriteSheet_69
+    21300140: charaSpriteSheet_70
+    21300142: charaSpriteSheet_71
+    21300144: charaSpriteSheet_72
+    21300146: charaSpriteSheet_73
+    21300148: charaSpriteSheet_74
+    21300150: charaSpriteSheet_75
+    21300152: charaSpriteSheet_76
+    21300154: charaSpriteSheet_77
+    21300156: charaSpriteSheet_78
+    21300158: charaSpriteSheet_79
+    21300160: charaSpriteSheet_80
+    21300162: charaSpriteSheet_81
+    21300164: charaSpriteSheet_82
+    21300166: charaSpriteSheet_83
+    21300168: charaSpriteSheet_84
+    21300170: charaSpriteSheet_85
+    21300172: charaSpriteSheet_86
+    21300174: charaSpriteSheet_87
+    21300176: charaSpriteSheet_88
+    21300178: charaSpriteSheet_89
+    21300180: charaSpriteSheet_90
+    21300182: charaSpriteSheet_91
+    21300184: charaSpriteSheet_92
+    21300186: charaSpriteSheet_93
+    21300188: charaSpriteSheet_94
+    21300190: charaSpriteSheet_95
+    21300192: charaSpriteSheet_96
+    21300194: charaSpriteSheet_97
+    21300196: charaSpriteSheet_98
+    21300198: charaSpriteSheet_99
+    21300200: charaSpriteSheet_100
+    21300202: charaSpriteSheet_101
+    21300204: charaSpriteSheet_102
+    21300206: charaSpriteSheet_103
+    21300208: charaSpriteSheet_104
+    21300210: charaSpriteSheet_105
+    21300212: charaSpriteSheet_106
+    21300214: charaSpriteSheet_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 440
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 396
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 352
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 308
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 264
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 220
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 132
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 88
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 44
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charaSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
