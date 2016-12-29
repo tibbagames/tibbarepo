@@ -56,9 +56,8 @@ public class Player1Control : MonoBehaviour {
 	{        
         posP1 = GetComponent<Transform>().position;
 
-        float screenRatio = (float)Screen.width / (float)Screen.height;
-        float widthOrtho = Camera.main.orthographicSize * screenRatio;
-
+        float screenRatio = 16.0f / 9.0f;
+        float widthOrtho = Camera.main.orthographicSize * screenRatio;       
         if (posP1.x + playerBoundaryRadius > widthOrtho)
         {
             posP1.x = widthOrtho - playerBoundaryRadius;
@@ -82,8 +81,10 @@ public class Player1Control : MonoBehaviour {
                 cooldownTimerFire1 -= Time.deltaTime;
                 if (Input.GetButton("Fire1_PAD1") && cooldownTimerFire1 <= 0)
                 {
+                    Debug.Log(_currentAnimationState);        
                     if (_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_HGRAN && _currentAnimationState != STATE_WIN)
                     {
+                        Debug.Log("Entra");
                         cooldownTimerFire1 = fireDelay;
                         if (goingRight)
                         {
@@ -98,14 +99,15 @@ public class Player1Control : MonoBehaviour {
                     }
                 }
                 if (Input.GetButtonDown("Fire2_PAD1"))
-                {                    
-                    if (_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
-                    {                        
+                {
+                    Debug.Log(_currentAnimationState);
+                    if (_currentAnimationState!= STATE_HGRAN && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
+                    {
+                        Debug.Log("Entra2");
                         crosshair = Instantiate(crosshairPrefab, new Vector2(posP1.x, -2.5f), GetComponent<Transform>().rotation) as GameObject;
                         this.rigidBody2D.velocity = new Vector2(0, this.GetComponent<Rigidbody2D>().velocity.y);
                         changeState(STATE_HGRAN);
-                    }
-                    Debug.Log(_currentAnimationState);
+                    }                    
                 }
                 if (Input.GetButtonUp("Fire2_PAD1"))
                 {                    
@@ -145,7 +147,7 @@ public class Player1Control : MonoBehaviour {
                 }
                 if (Input.GetButtonDown("Fire2_PAD2"))
                 {                    
-                    if (_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
+                    if (_currentAnimationState != STATE_HGRAN && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
                     {
                         crosshair = Instantiate(crosshairPrefab, new Vector2(posP1.x, -2.5f), GetComponent<Transform>().rotation) as GameObject;
                         this.rigidBody2D.velocity = new Vector2(0, this.GetComponent<Rigidbody2D>().velocity.y);
@@ -173,7 +175,7 @@ public class Player1Control : MonoBehaviour {
                 cooldownTimerFire1 -= Time.deltaTime;                          
                 if (Input.GetButton("Fire1_Keyboard") && cooldownTimerFire1 <= 0)
                 {
-                    if(_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_HGRAN && _currentAnimationState != STATE_WIN)
+                    if (_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_HGRAN && _currentAnimationState != STATE_WIN)
                     {
                         cooldownTimerFire1 = fireDelay;
                         if (goingRight)
@@ -190,8 +192,8 @@ public class Player1Control : MonoBehaviour {
                 }
                 if (Input.GetButtonDown("Fire2_Keyboard"))
                 {
-                    if (_currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
-                    {                        
+                    if (_currentAnimationState != STATE_HGRAN && _currentAnimationState != STATE_TGRAN && _currentAnimationState != STATE_DEAD && _currentAnimationState != STATE_DUCK && _currentAnimationState != STATE_WIN)
+                    {
                         crosshair = Instantiate(crosshairPrefab, new Vector2(posP1.x, -2.5f), GetComponent<Transform>().rotation) as GameObject;                        
                         this.rigidBody2D.velocity = new Vector2(0, this.GetComponent<Rigidbody2D>().velocity.y);
                         changeState(STATE_HGRAN);

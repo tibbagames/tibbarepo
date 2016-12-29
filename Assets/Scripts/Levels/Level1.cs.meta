@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e2ccfaf4b8e1f6d46a1d08149a5bd0cb
+timeCreated: 1482980232
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundPrefab: {instanceID: 0}
+  - garbageBinPrefab: {instanceID: 0}
+  - sandBarrierPrefab: {instanceID: 0}
+  - woodBoxPrefab: {instanceID: 0}
+  - binBPrefab: {instanceID: 0}
+  - cabinPrefab: {instanceID: 0}
+  - policeCarPrefab: {instanceID: 0}
+  - tiresAPrefab: {instanceID: 0}
+  - tiresBPrefab: {instanceID: 0}
+  - trafficSignAPrefab: {instanceID: 0}
+  - trafficSignBPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

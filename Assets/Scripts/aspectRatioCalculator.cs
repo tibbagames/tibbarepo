@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class aspectRatioCalculator : MonoBehaviour
-{
+{   
+
     void Start()
     {
         QualitySettings.SetQualityLevel(5);
@@ -22,7 +23,7 @@ public class aspectRatioCalculator : MonoBehaviour
             rect.x = 0;
             rect.y = (1.0f - scaleheight) / 2.0f;
 
-            camera.rect = rect;
+            camera.rect = rect;            
         }
 		//Pillarboxing
         else
@@ -36,10 +37,10 @@ public class aspectRatioCalculator : MonoBehaviour
             rect.x = (1.0f - scalewidth) / 2.0f;
             rect.y = 0;
 
-            camera.rect = rect;
+            camera.rect = rect;            
         }
-		//Delete pref set in registry, this allow to set different resolutions.
-		PlayerPrefs.DeleteKey ("Screenmanager Resolution Width");
-		PlayerPrefs.DeleteKey ("Screenmanager Resolution Height");
+        //Delete pref set in registry, this allow to set different resolutions.
+        PlayerPrefs.DeleteKey ("Screenmanager Resolution Width");
+		PlayerPrefs.DeleteKey ("Screenmanager Resolution Height");        
     }
 }

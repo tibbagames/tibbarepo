@@ -62,6 +62,9 @@
      <Compile Include="Assets\Scripts\Items\Item_woodBox.cs" />
      <Compile Include="Assets\Scripts\Items\Items.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\Levels\Level.cs" />
+     <Compile Include="Assets\Scripts\Levels\Level1.cs" />
+     <Compile Include="Assets\Scripts\Levels\Level2.cs" />
      <Compile Include="Assets\Scripts\Player1Collide.cs" />
      <Compile Include="Assets\Scripts\Player1Control.cs" />
      <Compile Include="Assets\Scripts\Player1Crosshair.cs" />

@@ -57,7 +57,7 @@ public class Player2Control : MonoBehaviour {
 	{
         posP2 = GetComponent<Transform>().position;
 
-        float screenRatio = (float)Screen.width / (float)Screen.height;
+        float screenRatio = 16.0f / 9.0f;
         float widthOrtho = Camera.main.orthographicSize * screenRatio;
 
         if (posP2.x + playerBoundaryRadius > widthOrtho)

@@ -22,7 +22,7 @@ public class Player1Crosshair : MonoBehaviour {
     {
         posP1 = GetComponent<Transform>().position;
 
-        float screenRatio = (float)Screen.width / (float)Screen.height;
+        float screenRatio = 16.0f / 9.0f;
         float widthOrtho = Camera.main.orthographicSize * screenRatio;
 
         if (posP1.x + crossHairBoundaryRadius > widthOrtho)
