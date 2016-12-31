@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\BulletP2.cs" />
      <Compile Include="Assets\Scripts\CameraShake.cs" />
      <Compile Include="Assets\Scripts\Constants.cs" />
+     <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Enemies\punkCommon.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Items\Item_PoliceCar.cs" />
      <Compile Include="Assets\Scripts\Items\Item_binB.cs" />

@@ -7,7 +7,7 @@ public class Level1 : Level {
 
     private enum LevelState { Play, End, Transition };
     private LevelState levelState = LevelState.Transition;
-    private List<GameObject> EnemiesOnScreen;
+    private List<GameObject> EnemiesOnScreen = new List<GameObject>();    
     private int waveNumber = 1;
     private int stageNumber = 1;   
         
@@ -44,7 +44,16 @@ public class Level1 : Level {
     // Update is called once per frame
     override
     public void Update ()
-    {
+    {            
+        for (int i=0; i< EnemiesOnScreen.Count; i++)
+        {
+            if (EnemiesOnScreen[i].GetComponent<Enemy>().isEnemyDead())
+            {
+                Destroy(EnemiesOnScreen[i]);
+                EnemiesOnScreen.Remove(EnemiesOnScreen[i]);                
+            }
+        }        
+
         switch (levelState)
         {
             case LevelState.Transition:
@@ -53,22 +62,22 @@ public class Level1 : Level {
                     case 1:
                         switch (waveNumber)
                         {
-                            case 1:
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                levelState = LevelState.Play;
+                            case 1:                                
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(3.01f, 0.5f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(1.01f, 0.0f), GetComponent<Transform>().rotation) as GameObject);
+                                levelState = LevelState.Play;                                
                                 break;
                             case 2:
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(5.00f, 0.5f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(7.00f, 0f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(1.00f, 0.7f), GetComponent<Transform>().rotation) as GameObject);                                
                                 levelState = LevelState.Play;
                                 break;
                             case 3:
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);                                
                                 levelState = LevelState.Play;
                                 break;
                             case 4:
@@ -76,7 +85,7 @@ public class Level1 : Level {
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
                                 EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
-                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);
+                                EnemiesOnScreen.Add(Instantiate(levelComponents.GetComponent<LevelComponents>().punkCommonPrefab, new Vector2(8.01f, -3.35f), GetComponent<Transform>().rotation) as GameObject);                                
                                 levelState = LevelState.Play;
                                 break;
                             case 5:
@@ -158,7 +167,7 @@ public class Level1 : Level {
                     if (EnemiesOnScreen.Count <= 1)
                     {
                         levelState = LevelState.Transition;
-                        waveNumber++;
+                        waveNumber++;                        
                     }
                 }
                 else
