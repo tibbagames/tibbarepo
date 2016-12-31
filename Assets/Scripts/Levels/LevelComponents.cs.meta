@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 212fa874ffbfba649a672f513f93373d
+timeCreated: 1483159677
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundPrefab: {fileID: 175180, guid: 1db535ed3f5c28e4aaf6bd56028c8b8d, type: 2}
+  - garbageBinPrefab: {fileID: 1000011388966932, guid: 469a5470faf4ea948b175aa0b703cdfb,
+      type: 2}
+  - sandBarrierPrefab: {fileID: 1000014178172466, guid: d4e0d4d833fbbac46a0847eee738242e,
+      type: 2}
+  - woodBoxPrefab: {fileID: 1000010037973226, guid: 4807f9a01a6cbb74cae0e531ef7ac9fa,
+      type: 2}
+  - policeCarPrefab: {fileID: 1000010346709670, guid: faff104280d1fa7428ae44d455b6ad8e,
+      type: 2}
+  - tiresAPrefab: {fileID: 1000011464802150, guid: 33a1e87ebe673474dade9550edc6cce9,
+      type: 2}
+  - tiresBPrefab: {fileID: 1000012699638730, guid: d02c0365749569544812d903b717fef1,
+      type: 2}
+  - trafficSignAPrefab: {fileID: 1000013957416672, guid: a62e79b4a6629974dacd8b0e7b43dc8f,
+      type: 2}
+  - trafficSignBPrefab: {fileID: 1000011660424566, guid: 18c48e1ffa5566249803c115824b6398,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

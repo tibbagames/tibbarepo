@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Level2 : Level {
     
@@ -15,6 +16,36 @@ public class Level2 : Level {
     public GameObject tiresBPrefab;
     public GameObject trafficSignAPrefab;
     public GameObject trafficSignBPrefab;*/
+    //Enemy Stage 1
+    private List<GameObject> Enemies_Stage1_Wave1;
+    private List<GameObject> Enemies_Stage1_Wave2;
+    private List<GameObject> Enemies_Stage1_Wave3;
+    private List<GameObject> Enemies_Stage1_Wave4;
+    private List<GameObject> Enemies_Stage1_Wave5;
+    //Enemy Stage 2
+    private List<GameObject> Enemies_Stage2_Wave1;
+    private List<GameObject> Enemies_Stage2_Wave2;
+    private List<GameObject> Enemies_Stage2_Wave3;
+    private List<GameObject> Enemies_Stage2_Wave4;
+    private List<GameObject> Enemies_Stage2_Wave5;
+    //Enemy Stage 3
+    private List<GameObject> Enemies_Stage3_Wave1;
+    private List<GameObject> Enemies_Stage3_Wave2;
+    private List<GameObject> Enemies_Stage3_Wave3;
+    private List<GameObject> Enemies_Stage3_Wave4;
+    private List<GameObject> Enemies_Stage3_Wave5;
+    //Enemy Stage 4
+    private List<GameObject> Enemies_Stage4_Wave1;
+    private List<GameObject> Enemies_Stage4_Wave2;
+    private List<GameObject> Enemies_Stage4_Wave3;
+    private List<GameObject> Enemies_Stage4_Wave4;
+    private List<GameObject> Enemies_Stage4_Wave5;
+    //Enemy Stage 5
+    private List<GameObject> Enemies_Stage5_Wave1;
+    private List<GameObject> Enemies_Stage5_Wave2;
+    private List<GameObject> Enemies_Stage5_Wave3;
+    private List<GameObject> Enemies_Stage5_Wave4;
+    private List<GameObject> Enemies_Stage5_Wave5;
 
     override
     public void Build () {
